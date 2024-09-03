@@ -61,7 +61,7 @@ Here I've created 3 different tickets, all of them having different levels of im
 <img src="https://i.imgur.com/iFgu7K1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that the tickets are created, we need to go back to our portal so that we can assist the users, use the link --> http://localhost/osTicket/scp/login.php to access your login and proceed from there! Furthermore, this this is the home page for all agents, it shows all the tickets that were created and from here you are able to resolve them.
+Now that the tickets are created, we need to go back to our portal so that we can assist the users, use the link --> http://localhost/osTicket/scp/login.php to access your login and proceed from there! Furthermore, this is the home page for all agents, it shows all the tickets that were created and from here you are able to resolve them.
 </p>
 <br />
 
@@ -70,22 +70,6 @@ Now that the tickets are created, we need to go back to our portal so that we ca
 </p>
 <p>
 I am going to key in on the "Business Critical Outage" example we went with. So as you can see in the image above, I previously logged in using my other agent (Jane Adams), hypothetically speaking she changed the priority to Emergency & sent this to System Administrators which is a department that is more equipped to handle this specific situation. After, I logged back into my admin account because this account is the only one that can assess this issue!
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/k2yTlrj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-I am going to key in on the "Business Critical Outage" example we went with. So as you can see in the image above, I previously logged in using my other agent (Jane Adams), hypothetically speaking she changed the priority to Emergency & sent this to System Administrators which is a department that is more equipped to handle this specific situation. After, I logged back into my admin account because this account is the only one that can assess this issue!
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/9nnIMir.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Once on the ticket! I went ahead and put a note and assigned SEV-A SLA to the ticket to get my team to understand the importance of this ticket so that we can get this one fixed and resolved. You simply do this by clicking SLA in the top part of the ticket and assigning whichever one you think fits the situation for this one its SEV-A.
 </p>
 <br />
 
